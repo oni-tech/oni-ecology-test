@@ -1,0 +1,10 @@
+#!/bin/sh -eux
+
+# Branch CI build script
+
+# Do some setup stuff
+
+# Then do what the dev should have tested locally
+bin/ci.common
+
+# Then maybe do some other stuff...

@@ -1,0 +1,11 @@
+#!/bin/sh -eux
+
+# Local Build Script
+
+# Build and test your entire project,
+# assume that an environment is already setup,
+# assume that devs will be running this in their local environment
+# setups...
+
+# Devs should be running this script to verify that
+# the CI build has some reasonable chance of passing...
